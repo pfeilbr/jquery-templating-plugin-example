@@ -1,0 +1,40 @@
+body {
+	font-size: 150%;
+}
+
+#content {
+	width: auto;
+}
+		
+.item-header {
+	background: pink;
+	clear: both;
+}
+
+.item-top-nav {
+	clear: both;
+	background: #d5d5d5;
+}
+
+.item-title {
+	background: blue;
+	float: left;
+}
+
+.item-next {
+	background: green;
+	float: right;
+}
+
+.item-collapse {
+	background: #d5d5d5;
+	float: left;
+	color: #000;
+}
+
+
+.item-body {
+	background: grey;
+	border: 5px solid black;
+	clear: both;
+}
